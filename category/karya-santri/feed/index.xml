@@ -9,8 +9,8 @@
 
 <channel>
 	<title>karya santri &#8211; Daarul Uluum Lido</title>
-	<atom:link href="https://daarululuumlido.com/category/karya-santri/feed/" rel="self" type="application/rss+xml" />
-	<link>https://daarululuumlido.com/</link>
+	<atom:link href="https://daarululuumlido.github.io/web//category/karya-santri/feed/" rel="self" type="application/rss+xml" />
+	<link>https://daarululuumlido.github.io/web//</link>
 	<description>Mencetak Ahli Dzikir dan Ahli Fikir</description>
 	<lastBuildDate>Tue, 29 Oct 2019 01:00:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,19 +23,19 @@
 <image>
 	<url>https://i0.wp.com/assets-web-du.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2019/01/05054727/cropped-logodu.png?fit=32%2C32&#038;ssl=1</url>
 	<title>karya santri &#8211; Daarul Uluum Lido</title>
-	<link>https://daarululuumlido.com/</link>
+	<link>https://daarululuumlido.github.io/web//</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NASIHAT PAK YAI MUHAMMAD YAZID DIMYATI</title>
-		<link>https://daarululuumlido.com/nasihat-pak-yai-muhammad-yazid-dimyati/</link>
-					<comments>https://daarululuumlido.com/nasihat-pak-yai-muhammad-yazid-dimyati/#respond</comments>
+		<link>https://daarululuumlido.github.io/web//nasihat-pak-yai-muhammad-yazid-dimyati/</link>
+					<comments>https://daarululuumlido.github.io/web//nasihat-pak-yai-muhammad-yazid-dimyati/#respond</comments>
 		
 		<dc:creator><![CDATA[dulido]]></dc:creator>
 		<pubDate>Tue, 29 Oct 2019 01:00:24 +0000</pubDate>
 				<category><![CDATA[karya santri]]></category>
-		<guid isPermaLink="false">https://daarululuumlido.com/?p=659</guid>
+		<guid isPermaLink="false">https://daarululuumlido.github.io/web//?p=659</guid>
 
 					<description><![CDATA[Janganlah menganggap bahwa pesantren itu adalah hotel, kalian bukan untuk dilayani akan tetapi untuk didik demi masa depan kalian ungkap Kyia Yazid Dimyati]]></description>
 										<content:encoded><![CDATA[
@@ -130,7 +130,7 @@
 <p>Mari berbagi, agar jiwa santri kita selalu semangat, dan kembali menyala dalam perbuatan dan keseharian kita&#8230;????????<br>_____________________<br>red (Khoirul Ibad, 24-Oktober-2019/Tetouan, Maroko.)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://daarululuumlido.com/nasihat-pak-yai-muhammad-yazid-dimyati/feed/</wfw:commentRss>
+					<wfw:commentRss>https://daarululuumlido.github.io/web//nasihat-pak-yai-muhammad-yazid-dimyati/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
